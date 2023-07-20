@@ -1,7 +1,7 @@
 Personal selection of wallpapers
- - dharmx manual selection: [https://github.com/patrickjaja/archconfig/blob/main/wallpapers_dharmx_github/README.md](wallpapers_dharmx_github)
- - arcolinux default wallpapers: [https://github.com/patrickjaja/archconfig/blob/main/arcolinux_defaults/README.md](arcolinux_defaults)
- - all time favorites, manually selected in variety: [https://github.com/patrickjaja/archconfig/blob/main/Variety_Favorites/README.md](Variety_Favorites)
+ - dharmx manual selection: [wallpapers_dharmx_github/README.md](wallpapers_dharmx_github)
+ - arcolinux default wallpapers: [arcolinux_defaults/README.md](arcolinux_defaults)
+ - all time favorites, manually selected in variety: [Variety_Favorites/README.md](Variety_Favorites)
 
 
 ![desktop1.png](desktop1.png)
